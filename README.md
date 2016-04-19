@@ -31,6 +31,8 @@
 
 + **R** - a programming language and freely available software environment for statistical computing and graphics. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. It has a command line interface and several graphical front-ends, the most popular is called RStudio. 
 
++ **GitHub** - Github is the largest repository of source code in the world. Unlike Git, which is strictly a command-line tool, GitHub is a web-based hosting service offering all of the distributed revision control and source code management functionality of Git as well as adding its own features. It provides a Web-based graphical interface and desktop as well as mobile integration. It also provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
+
 + **Data warehouse/Data Mart/Data Store**
 
 + **Metadata**
@@ -38,10 +40,6 @@
 + **AdaBoost**
 
 + **Model Tuning**
-
-
-
-+ **GitHub**
 
 + **Map/Reduce**
 
