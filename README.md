@@ -35,7 +35,7 @@
 
 + **Classification** - Like regression, a supervised predictive modeling technique using a known relationship between attributes to predict the category of an unseen instance. For example, using information about a borrower, including their income, age, credit score, and other information, to predict whether they're at risk of defaulting on their loan. 
 
-+ **Clustering** - an unsupervised machine learning technique for mathematically determing groups of objects that are similar to one another and different from the objects in other groups.
++ **Clustering** - an unsupervised machine learning technique for mathematically determining groups of objects that are similar to one another and different from the objects in other groups.
 
 + **Natural Language Processing** - a set of machine learning techniques to model the meaning contained in human language. This includes techniques to provide automatic translations, determine the sentiment of statements, and recognize handwriting.
 
@@ -50,17 +50,17 @@
 + **GitHub** - Github is the largest repository of source code in the world. Unlike Git, which is strictly a command-line tool, GitHub is a web-based hosting service offering all of the distributed revision control and source code management functionality of Git as well as adding its own features. It provides a Web-based graphical interface and desktop as well as mobile integration. It also provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
 
 
-+ **Big Data**
++ **Big Data** - any sufficiently large data set requiring a fundamentally different approach to storing, processing, and analyzing for insights and understanding. For some, this is data too big to fit into Excel >1,048,576 rows. For others, it's data that can't be easily read into available memory and processed with programming languages such as R or Python, requiring distributed processing in order to analyze.
 
-+ **Map/Reduce**
++ **MapReduce** - a distributed processing algorithm that divides large data sets across a number of different computing nodes (called mappers) for processing and then aggregates the results across another set of computing nodes (called reducers, which can be repurposed mappers) to arrive at a final result. Being distributed, the operation runs in parallel rather than sequentially (one step at a time). Decreasing the time to process a data set is done by increasing the number of computing nodes, which can be reasonably basic in terms of capabilities, rather than having one or a few very powerful computers to process the data.
 
-+ **Hadoop**
++ **Hadoop** - a framework for running MapReduce jobs that manages the operation of computing nodes, including ensuring the mapping jobs complete, data from the mappers is properly sorted, sorted data is provided to the proper reducers, and the reducer jobs complete. The framework is written in Java but supports a variety of other languages. 
 
-+ **API** 
++ **API** - **A**pplication **P**rogramming **I**nterface. A set of protocols for how computer programs should interact. Through APIs, applications are able to easily share data regardless of what language they're using or how they're built so long as they conform to basic standards. APIs make computing systems more flexible and adaptable, allowing other systems to easily interact with them.
 
-+ **ETL**
++ **ETL** - **E**xtract, **T**ransform, and **L**oad.
 
-+ **Cloud**
++ **Cloud** - 
 
 + **Structured/Semi-Structured vs. Unstructured Data**
 
