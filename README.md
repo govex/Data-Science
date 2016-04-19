@@ -27,6 +27,10 @@
 
 + **Random Forests** - a machine learning algorithm that uses a collection of various predictive models constructed on a random selection of features from the training data.
 
++ **Python** - Python is a widely used high-level, general-purpose, interpreted, dynamic programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java. The language provides constructs intended to enable clear programs on both a small and large scale.
+
++ **R** - a programming language and freely available software environment for statistical computing and graphics. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. It has a command line interface and several graphical front-ends, the most popular is called RStudio. 
+
 + **Data warehouse/Data Mart/Data Store**
 
 + **Metadata**
@@ -35,9 +39,7 @@
 
 + **Model Tuning**
 
-+ **R**
 
-+ **Python**
 
 + **GitHub**
 
