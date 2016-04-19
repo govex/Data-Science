@@ -58,9 +58,15 @@
 
 + **API** - **A**pplication **P**rogramming **I**nterface. A set of protocols for how computer programs should interact. Through APIs, applications are able to easily share data regardless of what language they're using or how they're built so long as they conform to basic standards. APIs make computing systems more flexible and adaptable, allowing other systems to easily interact with them.
 
-+ **ETL** - **E**xtract, **T**ransform, and **L**oad.
++ **ETL** - **E**xtract, **T**ransform, and **L**oad. The basic steps in processing raw data in order to make it usable for analysis and operational decision making in a data warehouse or other data storage application. This process often involves correcting data errors, normalizing data inputs, and ensuring the data is interoperable with other data sources.
 
-+ **Cloud** - 
++ **Cloud Computing** - on-demand computing using Internet-based resources. Cloud computing includes storage systems, data processing, and platform services that provide on-demand computing resources to users. These resources are managed (power, heating, cooling, updates, security, etc) by the cloud services providers rather than the user. While the resources are shared, within the software used, it's possible to guarantee privacy, security, and data integrity while consolidating overhead and maintenance. 
 
-+ **Structured/Semi-Structured vs. Unstructured Data**
++ **Structured data** - is hierarchical data with a clear organization that can easily be read into a database or application for processing, storage, and retrieval.
+
++ **Semi-structured data** - is data with organization properties that can be used to easily parse and store the data into a structured format for database or application for processing, storage, and retrieval.
+
++ **Unstructured data** - is data with no hierarchical structure or organization that would allow it to be easily processed and stored by a database or application. This includes images, emails, audio files, and other text documents.
+
++ **Structured/Semi-Structured vs. Unstructured Data** - by far the most prevalent type of data is unstructured data, with only a very small percentage of data produced being truly structured. Even semi-structured data (ie data in CSV, JSON, or XML formats) accounts for a small percentage of the data that's produced. Unstructured data is difficult to easily parse, process, store, and retrieve.
 
