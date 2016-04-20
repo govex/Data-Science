@@ -43,12 +43,11 @@
 
 + **Random Forests** - a machine learning algorithm that uses a collection of various predictive models constructed on a random selection of features from the training data.
 
-+ **Python** - Python is a widely used high-level, general-purpose, interpreted, dynamic programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java. The language provides constructs intended to enable clear programs on both a small and large scale.
++ **R** - a freely available, open-source statistical programming language used for analyzing and visualizing data. It's very popular among academic and professional statisticians, who contribute packages that provide advanced statistical functionality to the language. It can be run via the commandline or via a graphic integrated development environment called RStudio.
 
-+ **R** - a programming language and freely available software environment for statistical computing and graphics. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. It has a command line interface and several graphical front-ends, the most popular is called RStudio. 
++ **Python** - an open-source general purpose programming language with widely used packages for processing, analyzing, and visualizing data. It can be run in a variety of environments and in addition to working with data, can be used to perform a variety of other programming tasks.
 
-+ **GitHub** - Github is the largest repository of source code in the world. Unlike Git, which is strictly a command-line tool, GitHub is a web-based hosting service offering all of the distributed revision control and source code management functionality of Git as well as adding its own features. It provides a Web-based graphical interface and desktop as well as mobile integration. It also provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
-
++ **GitHub.com** - a web-based code storage and version control service. The website hosts a number of open-source projects and provides a graphic interface for managing projects and contributions from developers. As a "social coding" site, Github offers a number of tools for developers, designers, and users to collaborate and share around code, including bug tracking, feature requests, and wikis for each project. Users can also host webpages on Github.
 
 + **Big Data** - any sufficiently large data set requiring a fundamentally different approach to storing, processing, and analyzing for insights and understanding. For some, this is data too big to fit into Excel >1,048,576 rows. For others, it's data that can't be easily read into available memory and processed with programming languages such as R or Python, requiring distributed processing in order to analyze.
 
